@@ -1,0 +1,2 @@
+Doctor Name : Dr.Rajendra Prasad
+Doctor Specialization : Radiologist
